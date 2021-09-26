@@ -1,4 +1,4 @@
-## Bangla News Headlines Categorization Using Gated Recurrent Unit (GRU): Project Overview
+## Bangla News Headlines Categorization Using Long Short-Term Memory (LSTM): Project Overview
 Created a tool that can categorizes the Bengali news headlines into six category (National, Politics, International, Sports, Amusement, IT) using deep recurrent neural network.<br />
 A dataset of 0.13 Million news headlines is used which has been forked from [Eftekhar-Hossain's Git Repository](https://github.com/eftekhar-hossain/Bangla-News-Headlines-Categorization). <br />
 News headlines are from different Bengali online news portals such as Dainik Jugantor, Dainik Ittefaq, Dainik Kaler Kontho and so on. <br /><br/>
